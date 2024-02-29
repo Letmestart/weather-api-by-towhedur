@@ -9,10 +9,10 @@
   },
   "keywords": [],
   "engines": {
-    "node": ">=18.12. <21"
+    "node": ">=18 <21"
   },
   "license": "MIT",
-  "author": "Lucian Duta",
+  "author": "Lucian Duta.",
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "express": "^4.18.3",
