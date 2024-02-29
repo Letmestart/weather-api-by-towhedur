@@ -1,7 +1,7 @@
 {
   "name": "weathe_api",
   "version": "1.0.0",
-  "description": "The Weather API",
+  "description": "This is my new description of the weather_api for week 5.",
   "type": "module",
   "main": "index.js",
   "scripts": {
